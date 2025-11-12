@@ -1,4 +1,4 @@
-# Convexity & Volatility Research Group (CVR)
+# Convexity & Volatility Research Group (CVR Reseach)
 > Reading the economy through the options market.
 
 Welcome to **CVR Research**. We study how option prices encode **economic information**—from implied funding costs and liquidity premia to policy expectations, tail risk, and cross-market stress. Our goal is to turn options-implied signals into transparent, reproducible **macro-micro insights**.
